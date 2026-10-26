@@ -84,4 +84,4 @@ Special thanks to:
 | `hw/rtl/soc/` Bluespec library modules (`FIFO*.v`, `Sync*.v`, …) | Bluespec Inc. / B-Lang `bsc` | BSD-3-Clause (as distributed with bsc) |
 | `sdk/` | fork of shakti-sdk (IIT Madras) | GPL-3.0, see [`sdk/LICENSE`](sdk/LICENSE) |
 | `hw/ip/*.xci` | Xilinx/AMD IP configurations only (no IP source) | regenerate in Vivado under the AMD license |
-| ALPANA additions (top level, drivers, examples, docs) | Bhavya Bansal | *choose one and add a top-level `LICENSE`* |
+| ALPANA additions (top level, drivers, examples, docs) | Bhavya Bansal | MTECH VLSI  |
