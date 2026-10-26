@@ -69,6 +69,14 @@ An ESP32-CAM streams frames over SPI. ALPANA finds the lanes in C (using the FPU
 
 In RTL simulation (fast memory) the same core reaches 0.111 DMIPS/MHz and 0.400 CoreMark/MHz. The core has no cache, so on the board every instruction fetch from DDR2 costs about 48 cycles. The SDK's `ALPANA_FAST` option moves hot loops into on-chip RAM to work around this.
 
+## Acknowledgements
+Special thanks to:
+
+- **Thapar Institute of Engineering and Technology (TIET), Patiala**, where this work was carried out
+- **Department of Electronics and Communication Engineering (DECE), TIET**, for the lab, the FPGA hardware and the tools
+- **Dr. Amil Singh Rawat**, DECE, TIET, for guidance and support
+- **Dr. Manu Bansal**, DECE, TIET, for guidance and support
+
 ## Credits and licenses
 | Part | Origin | License |
 |---|---|---|
