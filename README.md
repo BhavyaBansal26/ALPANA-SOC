@@ -74,8 +74,8 @@ Special thanks to:
 
 - **Thapar Institute of Engineering and Technology (TIET), Patiala**, where this work was carried out
 - **Department of Electronics and Communication Engineering (DECE), TIET**, for the lab, the FPGA hardware and the tools
-- **Dr. Amil Singh Rawat**, DECE, TIET, for guidance and support
-- **Dr. Manu Bansal**, DECE, TIET, for guidance and support
+- **Dr. Anil Singh Rawat**, Associate Professor@DECE, TIET, for guidance and support
+- **Dr. Manu Bansal**, Associate Professor@DECE, TIET, for guidance and support
 
 ## Credits and licenses
 | Part | Origin | License |
