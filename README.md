@@ -73,6 +73,8 @@ In RTL simulation (fast memory) the same core reaches 0.111 DMIPS/MHz and 0.400 
 Special thanks to:
 
 - **Thapar Institute of Engineering and Technology (TIET), Patiala**, where this work was carried out
+- **Dr. Padmakumar Nair**, Vice-Chancellor, TIET
+- **Dr. Ajay Batish**, Pro-Vice-Chancellor, TIET
 - **Department of Electronics and Communication Engineering (DECE), TIET**, for the lab, the FPGA hardware and the tools
 - **Dr. Anil Singh Rawat**, Associate Professor@DECE, TIET, for guidance and support
 - **Dr. Manu Bansal**, Associate Professor@DECE, TIET, for guidance and support
