@@ -1,0 +1,15 @@
+build:
+  stage: build
+  
+  script:
+    - source ./setenv.sh
+    - env
+    - make all
+    - make all TARGET=moushik
+    - make all TARGET=artix7_100t
+    - make all TARGET=pinaka
+    - make all TARGET=parashu
+    - make all TARGET=vajra
+
+  tags:
+    - sw-runner

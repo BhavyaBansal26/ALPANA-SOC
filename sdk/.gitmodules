@@ -1,0 +1,6 @@
+[submodule "software/benchmarking/zephyr-rtos"]
+	path = software/benchmarking/zephyr-rtos
+	url = https://gitlab.com/shaktiproject/software/zephyr-rtos.git
+[submodule "shakti-tools"]
+	path = shakti-tools
+	url = https://gitlab.com/shaktiproject/software/shakti-tools

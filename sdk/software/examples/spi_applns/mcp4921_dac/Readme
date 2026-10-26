@@ -1,0 +1,27 @@
+
+IC MCP4921
+
+IC PIN NO 1  VDD 3.3V
+ 
+IC PIN NO 2  CS	    Give to SPI cs
+
+IC PIN NO 3  SCK    Give to SPI clk
+
+IC PIN NO 4  SDI    Give SPI MOSI
+
+IC PIN NO 5  LDAC   Give to ground
+
+IC PIN NO 6  V REFA Give to VCC
+
+IC PIN NO 7  AV SS  Give to ground
+
+IC PIN NO 8  V OUT Anolog DC Output
+
+
+SPI ADDRESS have to check
+
+
+
+
+
+
